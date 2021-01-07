@@ -1,0 +1,71 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 40px;
+    color: #ff1d7b;
+   
+}
+#head{
+    text-align: center;
+}
+.button-2{ text-decoration: none;
+    background-image:linear-gradient(45deg, lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 700;
+
+}
+.name
+{color: orangered;}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img {
+    width: 100%;
+}
+.semi-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 700;
+}
+.bottom{
+    width: 100%;
+    background-color: lightgray;
+}
+.project{
+    text-align: center;
+    padding-top: 10%;
+}
+.image{
+    background-color:white;
+    border-radius: 5px;
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+.image img{
+    width: 100%;
+    padding-top:15%;
+    padding-right: 30%;
+    
+    
+}
+.footer{
+    background-image: url(shapes/shape.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
